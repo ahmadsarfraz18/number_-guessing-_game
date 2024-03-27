@@ -1,0 +1,20 @@
+{
+  "name": "Mahar_number-guessing-game-practice-2",
+  "version": "1.0.0",
+  "description": "Number guessing game with Typescript, Node js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mahar Ahmad Sarfraz",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
